@@ -1,0 +1,22 @@
+--ANTES DO LESS--
+
+background: #000000;
+
+cor-text: #000000;
+
+rodape: #000000;
+
+
+--DEPOIS DO LESS APLICADO--
+
+
+@cor-principal: #000000;
+
+background: @cor-principal;
+
+cor-text: @cor-principal;
+
+rodape: @cor-principal;
+
+
+-CONCLUSÃO: antes do less, era precisa alterar a cor em todos os elementos. Com o less so muda o @

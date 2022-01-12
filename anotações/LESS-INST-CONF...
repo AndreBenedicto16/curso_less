@@ -1,0 +1,24 @@
+O QUE É: É uma linguagem de folha de estilo
+PARA QUE SERVE: Para deixar o css dinâmico
+
+----COMO INSTALAR NO CODIGO----
+
+NO TERMINAL COLOQUE OS SEGUINTES COMANDOS
+
+--PARA INSTALAR O LESS--
+
+- cmd> npm install -g less
+
+- cmd> lessc --version (para conferir se esta instalado)
+
+-------------------------------------------------
+
+NO TERMINAL CHEGUE COM O cmd> cd, na parte onde fica as folhas de estilo (css) 
+
+- cmd> lessc estilos.less estilos.css   (para criar o arquivo)
+significado:
+
+lessc - fala p less compilar (c) o arquivo estilos.less ai vc fala p ele colocar o arquivo estilos.css na pasta css
+	
+	
+PARA ATUALIZAR O INDEX TEM QUE DA O COMANDO ACIMA

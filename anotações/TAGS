@@ -1,0 +1,14 @@
+----PARA A COR FICAR MAIS CLARA AO PASSAR O MOUSE EM CIMA----
+
+.destaque button:hover {
+  background: lighten(@cor-padrao, 5 );
+}
+
+
+----PARA A COR FICAR MAIS FORTE AO CLICAR O----
+
+.destaque button:active {
+  background: darken(@cor-padrao, 5);
+}
+
+
